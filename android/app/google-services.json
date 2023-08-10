@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911014600437",
+    "project_id": "dchat-remote",
+    "storage_bucket": "dchat-remote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911014600437:android:a0732dafa2e0c34fd2efbc",
+        "android_client_info": {
+          "package_name": "com.example.dchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911014600437-k0kkcgkn7dr6tlkdhfiiq12bqivko34b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEGbFmfZ4ckLZq2RZatJLCLrO9Q_FAipY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911014600437-k0kkcgkn7dr6tlkdhfiiq12bqivko34b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
